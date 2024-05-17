@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AngshumanSarmah
-- 👀 I’m interested in ... javaScript, typeScript
-- 📫 How to reach me ... mail me at angshuman.sarmah@gmail.com
+- 👀 I’m interested in --> javaScript, typeScript
+- 📫 How to reach me --> mail me at angshuman.sarmah@gmail.com
