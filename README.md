@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AngshumanSarmah
+- 👋 Hi, I’m [@AngshumanSarmah](https://github.com/angshumanSarmah/)
 - 👀 I’m interested in --> Web development (JavaScript, TypeScript)
 - 📫 How to reach me --> mail me at angshuman.sarmah@gmail.com
