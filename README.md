@@ -1,3 +1,5 @@
-- 👋 Hi, I’m [@AngshumanSarmah](https://github.com/angshumanSarmah/)
-- 👀 I’m interested in --> Web development (JavaScript, TypeScript)
-- 📫 How to reach me --> mail me at angshuman.sarmah@gmail.com
+- 💻 Currently focused on web development.
+- 💼 `Javascript`, `Typescript`, `Vue`, `Angular`, `Nodejs`, `PostgreSQL`, `UI/UX Design & Development`, `Design Systems`.
+- 📨  [angshuman.sarmah@gmail.com](angshuman.sarmah@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/angshuman-sarmah/](https://www.linkedin.com/in/angshuman-sarmah/)
+- LeetCode: [https://leetcode.com/u/angshuman_sarmah/](https://leetcode.com/u/angshuman_sarmah/)
