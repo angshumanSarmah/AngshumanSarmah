@@ -1,5 +1,5 @@
 - 💻 Currently focused on web development.
-- 💼 `Javascript`, `Typescript`, `Vue`, `Angular`, `Nodejs`, `PostgreSQL`, `UI/UX Design & Development`, `Design Systems`.
+- 💼 `Javascript`, `Typescript`, `Vue.js`, `Angular`, `Nodejs`, `PostgreSQL`, `UI/UX Design & Development`, `Design Systems`.
 - 💼  [Personal Portfolio](https://angshumansarmah.github.io/personal-profile/)
 - 📨  [angshuman.sarmah@gmail.com](angshuman.sarmah@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/angshuman-sarmah/](https://www.linkedin.com/in/angshuman-sarmah/)
